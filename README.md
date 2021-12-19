@@ -3,7 +3,7 @@ By: Jackie Jiang
 
 ---
 ## Introduction
-The main purpose of this lab is to create the Connect 4 game in C++
+A Connect 4 game in C++
 
 ---
 ## Acknowledgements
