@@ -1,6 +1,5 @@
 /*
 Name: Jackie Jiang
-Student Number: 100789604
 Desc: Lab 7 Connect 4 lab
 */
 
